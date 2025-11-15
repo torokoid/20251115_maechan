@@ -317,9 +317,10 @@ https://youtube.com/shorts/1MxKGMEFFR4?feature=share<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LiC93_VZvtw?si=zhTgOFj2yTB1GSxv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </div>
     
-<h2><span class="yellow">もう一つ今日のBGM　Soft Rock Songs 70s 80s 90s Full Album 🎁 Lionel Richie, Elton John, Eric Clapton, Bee Gees, Lobo</span></h2>
+<h2><span class="yellow">もう一つ今日のBGM　
+Autumn Healing Music 🍁 Calm Mind & Restore Peace</span></h2>
 <div class="youtube-wrapper">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/COcHNiDPG6Q?si=nc5LkmGFRvIR6oph" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O2wRtzMlwiA?si=4PFYe4OqQ6kleCDZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </div> 
     
 
