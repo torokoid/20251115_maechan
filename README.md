@@ -156,7 +156,7 @@ p.note { display: none; }
 <p align="right"><marquee direction="left" scrollamount="20" width="30%">(^_^)/~Hada</marquee></p>
 
 <!--流れ文字の挿入例-->
-<h1><span class="yellow"><marquee behavior="left">!!! 2025/11/14 、庭のお花達から、金曜市場、夕暮れのお空と星空まででした !!!</marquee></span></h1>
+<h1><span class="yellow"><marquee behavior="left">!!! 2025/11/14 、庭のお花達から、金曜市場、夕暮れのお空と星空まで !!!</marquee></span></h1>
 
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
